@@ -2,7 +2,7 @@
 #### Je suis Actuellement etudiant a IIM Digital School
 #### Je travail actuellement sur un projet pressonel sur un jeux tres connue
 #### 📧nassim.rhoune@icloud.com
-*Mes passion 
+* Mes passion 
 * le football
 * les jeux video
 * les mangas
@@ -14,4 +14,6 @@
 * 📡 Git
 * 📡 Github
   
-<a href="https://www.linkedin.com/in/nassim-rhoune-5b9053226/"><img src="" alt="LinkedIn" width="50"></a>
+<a href="https://www.linkedin.com/in/nassim-rhoune-5b9053226/"><img src="téléchargement.png" alt="LinkedIn" width="50"></a>
+<a href="[https://www.linkedin.com/in/nassim-rhoune-5b9053226](https://twitter.com/Zytrax9)/"><img src="téléchargement (1).png" alt="Twitter" width="50"></a>
+
